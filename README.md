@@ -114,7 +114,7 @@ We’re in **early development**. Want to get involved?
 ### 🔨 Clone & Contribute
 
 ```bash
-git clone https://github.com/your-org/hvtp
+git clone https://github.com/faustodc/HyperverseTransferProtocol
 cd hvtp
 ```
 
