@@ -80,6 +80,21 @@ graph TD
 
 ---
 
+## 🤖 AI Agents Integration
+
+HVTP is designed not only for human users but also for **autonomous AI agents** capable of **observing, navigating, interacting with**, and even **modifying** the shared scene.
+
+Modern virtual environments often involve non-human participants:
+
+* 🧠 **NPCs powered by LLMs or behavioral models**
+* 🤖 **Bots for QA testing or automated moderation**
+* 📡 **Digital twins driven by real-world sensors or APIs**
+* 🧑‍🚀 **Cognitive agents exploring and learning in CVEs**
+
+HVTP treats these agents as **first-class participants** in the collaborative space, with their own presence, permissions, and communication channels.
+
+---
+
 ## 📂 Repository Structure (Planned)
 
 ```
